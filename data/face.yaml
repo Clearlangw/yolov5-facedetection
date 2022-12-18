@@ -1,0 +1,6 @@
+train: C:\Users\hw\Desktop\yolov5-master\yolov5-master\CASIA-FaceV5\images\train
+val: C:\Users\hw\Desktop\yolov5-master\yolov5-master\CASIA-FaceV5\images\val
+# number of classes
+nc: 1
+# class names
+names: ['face']
